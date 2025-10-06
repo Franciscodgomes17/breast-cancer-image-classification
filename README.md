@@ -20,99 +20,73 @@ Clone the repository and install dependencies:
 git clone https://github.com/yourusername/breast-cancer-image-classification.git
 cd breast-cancer-image-classification
 pip install -r requirements.txt
-📦 Requirements
-Main dependencies:
-
-numpy
-
-pandas
-
-scikit-learn
-
-imbalanced-learn
-
-Pillow
-
-opencv-python
-
-tensorflow
-
-keras
-
-matplotlib
-
-seaborn
-
-plotly
-
-jupyter
-
-(See requirements.txt for the full list)
-
-📊 Features
-Preprocessing and augmentation of breast cancer imaging datasets
-
-Binary classification (benign vs malignant)
-
-Multi-class classification (cancer subtypes)
-
-Deep Learning models based on CNNs:
-
-VGG16
-
-ResNet50
-
-Custom CNN
-
-Evaluation metrics:
-
-ROC, Precision-Recall, F1 Score
-
-Confusion Matrices & Heatmaps
-
-Calibration curves
-
-Comparative analysis between binary and multi-class approaches
-
-🧪 Usage
-Run the experiments by opening the Jupyter notebook:
-
-bash
-Copiar código
-jupyter notebook Notebook_Group_8.ipynb
-Or import helper functions directly from Functions_Group_8.py.
-
-📖 Report
-The full research report is available here:
-👉 Report_Group_8.pdf
-
-👥 Authors
-Carolina Almeida
-
-Duarte Carvalho
-
-Francisco Gomes
-
-Margarida Henriques
-
-Marta Monteiro
-
-Group 8 - Machine Learning Project
-
-📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
-
-yaml
-Copiar código
+```
 
 ---
 
-⚡ Agora é só copiar este bloco inteiro para o teu `README.md`.  
+## 📦 Requirements
+Main dependencies include:
 
-Queres que te faça também já o **LICENSE (MIT)** prontinho em bloco igual, para só copiares?
+- numpy  
+- pandas  
+- scikit-learn  
+- imbalanced-learn  
+- Pillow  
+- opencv-python  
+- tensorflow  
+- keras  
+- matplotlib  
+- seaborn  
+- plotly  
+- jupyter  
 
+(See [`requirements.txt`](requirements.txt) for the full list)
 
+---
 
+## 📊 Features
+- Preprocessing and augmentation of breast cancer imaging datasets  
+- Binary classification (benign vs malignant)  
+- Multi-class classification (cancer subtypes)  
+- Deep Learning models based on CNNs:  
+  - VGG16  
+  - ResNet50  
+  - Custom CNN  
+- Evaluation metrics:  
+  - ROC, Precision-Recall, F1 Score  
+  - Confusion Matrices & Heatmaps  
+  - Calibration curves  
+- Comparative analysis between binary and multi-class approaches  
 
+---
 
+## 🧪 Usage
+Run the experiments by opening the Jupyter notebook:
 
+```bash
+jupyter notebook Notebook_Group_8.ipynb
+```
+
+Or import helper functions directly from `Functions_Group_8.py`.
+
+---
+
+## 📖 Report
+The full research report is available here:  
+👉 [Report_Group_8.pdf](Report_Group_8.pdf)
+
+---
+
+## 👥 Authors
+- Carolina Almeida  
+- Duarte Carvalho  
+- Francisco Gomes  
+- Margarida Henriques  
+- Marta Monteiro  
+
+*Group 8 - Machine Learning Project*
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
