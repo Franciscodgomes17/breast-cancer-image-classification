@@ -50,7 +50,9 @@ jupyter
 
 (See requirements.txt for the full list)
 
-##  Features
+---
+
+# Features
 Preprocessing and augmentation of breast cancer imaging datasets
 
 Binary classification (benign vs malignant)
