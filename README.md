@@ -73,7 +73,7 @@ Or import helper functions directly from `Functions_Group_8.py`.
 
 ## Report
 The full research report is available here:  
-👉 [Report_Group_8.pdf](Report_Group_8.pdf)
+[Report_Group_8.pdf](Report_Group_8.pdf)
 
 ---
 
